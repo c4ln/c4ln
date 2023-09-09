@@ -7,7 +7,7 @@
         <img align="center" hspace=1 src="https://img.shields.io/badge/♕-Blog-11100f">
     </a>
     <a href="https://evosync.org">
-        <img align="center" hspace=1 src="https://img.shields.io/badge/♖-Organization-11100f">
+        <img align="center" hspace=1 src="https://img.shields.io/badge/♖-Enterprise-11100f">
     </a>
     <a href="https://github.com/evosync">
         <img align="center" hspace=1 src="https://img.shields.io/badge/♗-GitHub-11100f">
