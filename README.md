@@ -6,7 +6,7 @@
     <a href="https://zynsec.com">
         <img align="center" hspace=1 src="https://img.shields.io/badge/♕-Blog-11100f">
     </a>
-    <a href="https://ev0n.cc">
+    <a href="https://evonc2.com">
         <img align="center" hspace=1 src="https://img.shields.io/badge/♖-C2-11100f">
     </a>
     <a href="https://github.com/evosync">
